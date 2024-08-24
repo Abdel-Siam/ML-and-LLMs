@@ -135,3 +135,4 @@ Now this is the UI that I had made that used OpenAI API endpoints. My main goal 
 The code isn't the best and I could have definitely improved it a lot more. The comments are bad as they explain what the code does, not why it is. I have learned a lot of things during my time at LH and if I had to revisit this project I would have done it very differently, but when I was making it things were different and the field was moving very quickly too.
 
 # Thank You for reading!
+Hope you enjoy the massive world of LLMs and ML!
